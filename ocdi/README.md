@@ -25,8 +25,17 @@ The code repository is composed by the following files and folders:
         check_2d_datasets.py:   file for checking the shapes of the built 2d datasets
         generate_2d_datasets.py:   file for the customizable creation of the 2D datasets
         utils_2d_datasets.py : code utils for handling the 2D datasets 
+        example_2d_vanilla.py: example script for a vanilla model
+        example_2d_mh.py: example script for the usage and definition of MHs
+
     datasets :              folder containing the non-stationary imagenet dataset files    
     main.py :             experiments runner
+
+
+USAGE EXAMPLE
+-------------
+Have a look at the example script available in the path `d2d/example_2d_mh.py` for a practical example on MHs definition and usage!
+
 
 DATASETS GENERATION
 -------------------
