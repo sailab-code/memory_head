@@ -39,7 +39,7 @@ Directory tree structure:
 
 QUICK START: defining a Memory Head (MH)
 --------------------------
-Have a look at the [Colab Notebook](https://github.com/sailab-code/foveated_neural_computation/blob/main/foveated_convolutional_layer.ipynb) for a complete example on how to define and use the Memory Head!
+Have a look at the [Colab Notebook](https://github.com/mtiezzi/memory_head/blob/main/mh_example.ipynb) for a complete example on how to define and use the Memory Head!
 
 We also provide example scripts in the `ocdi/d2d/example_2d_mh.py` path. 
 
