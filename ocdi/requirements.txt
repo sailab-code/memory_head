@@ -1,0 +1,11 @@
+scipy
+wandb
+matplotlib
+numpy
+prettytable
+torchsummary
+torchinfo
+seaborn
+pandas
+scikit-learn
+torchvision
