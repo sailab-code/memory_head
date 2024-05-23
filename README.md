@@ -14,7 +14,7 @@
 
 
 This repo contains the PyTorch code for CoLLAs 2024 paper "[Memory Head for Pre-Trained Backbones in Continual Learning](tba)".
-
+You can find in the `ci` subfolder the source code for the class incremental setting (paper Section 4.1), while the `ocdi` folder contains the source code for the online class-domain incremental setting (paper Section 4.2).
 
 CODE REPOSITORY CONTENTS
 ------------------------
