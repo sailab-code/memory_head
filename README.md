@@ -26,21 +26,21 @@ CODE REPOSITORY CONTENTS
 ------------------------
 Directory tree structure:
 
-    ci :                 folder containing the source code for the class incremental setting (paper Section 4.1)
+    ci :      folder containing the source code for the class incremental setting (paper Section 4.1)
 
-            mh :                 folder containing the source code of our Memory Heads
-            main_wb.py :         experiments runner
-            ...                  files from the SLCA repository
-    ocdi :               folder containing the source code for the online class-domain incremental setting (paper Section 4.2)
+            mh :           folder containing the source code of our Memory Heads
+            main_wb.py :   experiments runner
+            ...            files from the SLCA repository
+    ocdi :    folder containing the source code for the online class-domain incremental setting (paper Section 4.2)
     
-            mh :                 folder containing the source code of our mh model
-            competitors :                   source folder for the implementation of continual learning baselines and competitors  
-            d2d :                   folder containing 2D dataset (MODES in the paper) generators and utils
+            mh :           folder containing the source code of our mh model
+            competitors :  source folder for the implementation of continual learning baselines and competitors  
+            d2d :          folder containing 2D dataset (MODES in the paper) generators and utils
                 check_2d_datasets.py:   file for checking the shapes of the built 2d datasets
                 generate_2d_datasets.py:   file for the customizable creation of the 2D datasets
                 utils_2d_datasets.py : code utils for handling the 2D datasets 
-            datasets :              folder containing the non-stationary imagenet dataset files    
-            main.py :             experiments runner
+            datasets :     folder containing the non-stationary imagenet dataset files    
+            main.py :      experiments runner
 
 
 QUICK START: defining a Memory Head (MH)
